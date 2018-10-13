@@ -1,0 +1,44 @@
+img {
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: palevioletred;
+    margin: 15px;
+}
+h1 {
+    font-family: "Courier New", Courier, monospace;
+    color: plum;
+}
+
+body {
+    background-color: black;
+}
+
+.title {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#scoretext {
+    position: relative;
+    left: 25px;
+}
+
+#goalscore {
+    position: relative;
+    left: 25px;
+}
+
+#winstext {
+    position: relative;
+    left: 1150px;
+    top: 120px;
+}
+
+#losetext {
+    position: relative;
+    left: 1150px;
+    top: 110px;
+}
